@@ -44,7 +44,7 @@ To run this project, make sure you have yarn installed on your device globally. 
 ```
 
 Or
-
+ 
 ```bash
   sudo npm install -g yarn
 ```
