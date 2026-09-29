@@ -3,7 +3,6 @@
   <p1>We serve non bias news. Always on first to deliver.</p1>
   
 </div>
-
 ## About The Project
 <div align="center"> 
   <a href="hhttps://github.com/ipetersenpai/DailyScope">
